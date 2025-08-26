@@ -1,0 +1,37 @@
+0f6ce5cbdabdc7e0cc2636944d4f6260dbddce2e
+26eeb356366564c1c61a67e1b95b6f5cad1edc8b
+9d0e5393de8c0965eb5f53e2744ba2ed16175d77
+9dc5fe97c0afaaba9b41b15eb54fbbed7a2b38c9 
+e420eb887a7ca36e5ba9338c94a5ce085f8c6a21 
+f3e105ed1399ee04a92c0f5cc055125dcf664b0a 
+210bc7e612d3bfcb9222f6b0f6a13722c7a53a1d .env
+b605b262536ddf006f5ea279562a9966d27032a4 .gitignore
+3d866e2b409bdacf69679f7372cd11dfac77c80e main.tf
+2d7d29527230412272e3b29dafc9ac26d73ccd76 .terraform
+494c992c005199669c7fe491fd9d4c05562d7440 .terraform
+aa3234771fd046cd58c97d568414509028a7e608 .terraform
+aa47e49a659c296c6ec2b1b0647e06ec73058867 .terraform.lock.hcl
+4895008d24d7748332b9545487261c01474d064d .terraform/providers
+72eff3742639ce4792412415ce95dea7c6e7c169 .terraform/providers
+fd149b66fb55f3736c21d8b2ba9a3e26183ac95c .terraform/providers
+32f6071f855745a9cf0f4693a26ec49ac6ccdd8e .terraform/providers/registry.terraform.io
+670d072969535e48dec537387e245f3d95cc341a .terraform/providers/registry.terraform.io
+79386642baa4cc1f0f22064b7b24ffdd3e3e3d81 .terraform/providers/registry.terraform.io
+45126675b217bc6e18b1d9c861930b99f08ba920 .terraform/providers/registry.terraform.io/hashicorp
+5d45d05d95bcf1e69f29cfdef5f2695cdba53ca0 .terraform/providers/registry.terraform.io/hashicorp
+f5c4bc08b3db552e6a9e4301487ff4ab6879744c .terraform/providers/registry.terraform.io/hashicorp
+2cb78a0a219ed1919728554757e817cd374a01b6 .terraform/providers/registry.terraform.io/hashicorp/aws
+7540582bef7fb8bd3b0be83996b0193933ae7469 .terraform/providers/registry.terraform.io/hashicorp/aws
+9c199281741bec603e9ba877be41d625d49ab1ef .terraform/providers/registry.terraform.io/hashicorp/aws
+8be6f0e8126e056b98582f0912f6c7c2ca4ffb6e .terraform/providers/registry.terraform.io/hashicorp/aws/6.10.0
+b6ce38ff0c94f8718c96a86ab48c73bd4e3cf950 .terraform/providers/registry.terraform.io/hashicorp/aws/6.10.0
+f14a997abb6cfcfdf10ebfafc62374714ab804ed .terraform/providers/registry.terraform.io/hashicorp/aws/6.10.0
+ab2a2db0d4686b54f59fdb004e8a21673f56ca16 .terraform/providers/registry.terraform.io/hashicorp/aws/6.10.0/linux_amd64
+b0e57d2821652130e4aa68da173dc69c6d662fa8 .terraform/providers/registry.terraform.io/hashicorp/aws/6.10.0/linux_amd64
+dcfe5af02667722d1189083434c476c9244ab4fe .terraform/providers/registry.terraform.io/hashicorp/aws/6.10.0/linux_amd64
+1deb30d7348cf2286f9417c9728d59a5da1253fc .terraform/providers/registry.terraform.io/hashicorp/aws/6.10.0/linux_amd64/.gitignore
+41b043023dd1e8911989bd377a364cbba83e954d .terraform/providers/registry.terraform.io/hashicorp/aws/6.10.0/linux_amd64/.gitignore
+b9ac071eb6387e85c6e4d5df995839696db0e513 .terraform/providers/registry.terraform.io/hashicorp/aws/6.10.0/linux_amd64/LICENSE.txt
+c2c2cdf67c80611d5738dac05d46e20089ce7160 .terraform/providers/registry.terraform.io/hashicorp/aws/6.10.0/linux_amd64/terraform-provider-aws_v6.10.0_x5
+e5a8c53e573f8e76fb01445ed0f279afe7c80633 terraform.tfstate
+95f31343c6fde59592a7c4a2d8652308359919ad terraform.tfstate.backup
